@@ -1,12 +1,6 @@
-# country-code-converter
+// const convertCountryName = require('./index')
 
-Converts IOC, FIFA, ISO3, and IOS2 country codes.
-
-## Documentation
-
-```
-
- const {
+const {
   convertIOCCountryCode,
   convertFIFACountryCode,
   convertISO3CountryCode,
@@ -20,5 +14,3 @@ console.log(convertFIFACountryCode('USA'))
 console.log(convertISO3CountryCode('USA'))
 console.log(convertISO2CountryCode('US'))
 console.log(convertCountryName('United States'))
-
-```
