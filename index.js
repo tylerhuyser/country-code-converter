@@ -103,7 +103,7 @@ exports.convertIOCCountryCode = function (IOCCountryCode) {
     case 'KGZ' : return { countryName: 'Kyrgyzstan', FIFA: 'KGZ', ISO3: 'KGZ', ISO2: 'KG'}; break;
     case 'LAO' : return { countryName: 'Laos', FIFA: 'LAO', ISO3: 'LAO', ISO2: 'LA'}; break;
     case 'LVA' : return { countryName: 'Latvia', FIFA: 'LVA', ISO3: 'LVA', ISO2: 'LV'}; break;
-    case 'LBN' : return { countryName: 'Lebanon', FIFA: 'LBN', ISO3: 'LBN', ISO2: 'LB'}; break;
+    case 'LBN' : return { countryName: 'Lebanon', FIFA: 'LBN', ISO3: 'LBN', ISO2: 'LN'}; break;
     case 'LES' : return { countryName: 'Lesotho', FIFA: 'LES', ISO3: 'LSO', ISO2: 'LS'}; break;
     case 'LBR' : return { countryName: 'Liberia', FIFA: 'LBR', ISO3: 'LBR', ISO2: 'LR'}; break;
     case 'LBY' : return { countryName: 'Libya', FIFA: 'LBY', ISO3: 'LBY', ISO2: 'LY'}; break;
